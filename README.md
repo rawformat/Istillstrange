@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Istillstrange
+- 👋 Hi, I’m @rawformat
 - 👀 I’m interested in automatisation
 - 🌱 I’m currently learning python
 
