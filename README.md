@@ -14,8 +14,8 @@
 ---
 
 ### 🔥 **Stats**
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawformat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawformat&layout=compact&theme=radical)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawformat&show_icons=true&theme=ayu-mirage)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawformat&layout=compact&theme=ayu-mirage)
 
 ---
 
