@@ -9,13 +9,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7E744&width=435&lines=Welcome+to+my+GitHub+profile!;Automation+Engineer+at+heart;Learning+%26+Building+every+day)
-
----
-
-### 📂 **Pinned Projects**
-- 🔧 [**Rawformat Config Files**](https://github.com/rawformat/rawformat): Centralized configuration for my GitHub profile.
-- 🃏 [**Blackjack Card Game**](https://github.com/rawformat/BlackJack-card-game): Python-based game for learning and fun.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=DC143C&width=435&lines=Welcome+to+my+GitHub+profile!;Automation+Engineer+at+heart;Learning+%26+Building+every+day)
 
 ---
 
